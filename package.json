@@ -1,6 +1,6 @@
 {
   "name": "minify-pic-cli",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "一个简单易用的图片批量压缩命令行工具，支持 PNG、JPEG、GIF 格式，适合前端和设计师快速优化图片体积。",
   "main": "index.js",
   "bin": {

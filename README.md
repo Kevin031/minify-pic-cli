@@ -1,6 +1,6 @@
 # Minify Pic CLI - Batch Image Compression Tool
 
-English | [简体中文](./README.zh-CN.md)
+English | [简体中文](https://github.com/Kevin031/minify-pic-cli/blob/main/README.zh-CN.md)
 
 A simple and easy-to-use command-line tool for batch image compression, supporting PNG, JPEG, and GIF formats. Perfect for frontend developers and designers to quickly optimize image file sizes.
 
